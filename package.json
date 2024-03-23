@@ -1,0 +1,22 @@
+{
+  "name": "@codebase-rocket/js-helper-debug",
+  "description": "Boilerplate library. Contains Functions related to logging for debugging",
+  "version": "1.0.0",
+  "main": "debug.js",
+  "keywords": [],
+  "private": false,
+  "license": "Private",
+  "author": {
+    "name": "Shivanshu Jindal"
+  },
+  "contributors": [],
+  "bundleDependencies": false,
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "js-helper-utils": "npm:@codebase-rocket/js-helper-utils@^1.0.0"
+  },
+  "devDependencies": {}
+}
